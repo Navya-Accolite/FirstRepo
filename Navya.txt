@@ -1,9 +1,3 @@
-New File
-<<<<<<< Updated upstream
 
-
-Making emergency changes
-=======
 Making some changes - so stashing now....
->>>>>>> Stashed changes
-.
+
